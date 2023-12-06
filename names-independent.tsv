@@ -1,9 +1,10 @@
+Numeric	Alpha-2	Alpha-3	Short	Full
 004	AF	AFG	Afganisztán	Afganisztáni Iszlám Köztársaság
 008	AL	ALB	Albánia	Albán Köztársaság
 012	DZ	DZA	Algéria	Algériai Demokratikus Népi Köztársaság
 020	AD	AND	Andorra	Andorrai Fejedelemség
 024	AO	AGO	Angola	Angolai Köztársaság
-028	AG	ATG	Antigua és Barbuda
+028	AG	ATG	Antigua és Barbuda	
 032	AR	ARG	Argentína	Argentin Köztársaság
 036	AU	AUS	Ausztrália	Ausztrál Államszövetség
 040	AT	AUT	Ausztria	Osztrák Köztársaság
@@ -11,20 +12,20 @@
 044	BS	BHS	Bahama-szigetek	Bahamai Közösség
 048	BH	BHR	Bahrein	Bahreini Királyság
 050	BD	BGD	Banglades	Bangladesi Népi Köztársaság
-052	BB	BRB	Barbados
+052	BB	BRB	Barbados	
 056	BE	BEL	Belgium	Belga Királyság
-084	BZ	BLZ	Belize
+084	BZ	BLZ	Belize	
 204	BJ	BEN	Benin	Benini Köztársaság
 064	BT	BTN	Bhután	Bhutáni Királyság
 624	GW	GNB	Bissau-Guinea	Bissau-guineai Köztársaság
 068	BO	BOL	Bolívia	Bolíviai Többnemzetiségű Állam
-070	BA	BIH	Bosznia-Hercegovina
+070	BA	BIH	Bosznia-Hercegovina	
 072	BW	BWA	Botswana	Botswanai Köztársaság
 076	BR	BRA	Brazília	Brazil Szövetségi Köztársaság
 096	BN	BRN	Brunei	Brunei Darussalam Állam
 100	BG	BGR	Bulgária	Bolgár Köztársaság
-854	BF	BFA	Burkina Faso
-108	BI	BDI	Burundi Burundi Köztársaság
+854	BF	BFA	Burkina Faso	
+108	BI	BDI	Burundi Burundi Köztársaság	
 152	CL	CHL	Chile	Chilei Köztársaság
 196	CY	CYP	Ciprus	Ciprusi Köztársaság
 174	KM	COM	Comore-szigetek	Comore-szigeteki Unió
@@ -34,13 +35,13 @@
 208	DK	DNK	Dánia	Dán Királyság
 710	ZA	ZAF	Dél-Afrika	Dél-afrikai Köztársaság
 728	SS	SSD	Dél-Szudán	Dél-szudáni Köztársaság
-212	DM	DMA	Dominikai Közösség
-214	DO	DOM	Dominikai Köztársaság
+212	DM	DMA	Dominikai Közösség	
+214	DO	DOM	Dominikai Köztársaság	
 262	DJ	DJI	Dzsibuti	Dzsibuti Köztársaság
 218	EC	ECU	Ecuador	Ecuadori Köztársaság
 226	GQ	GNQ	Egyenlítői-Guinea	Egyenlítői-guineai Köztársaság
 840	US	USA	Egyesült Államok	Amerikai Egyesült Államok
-784	AE	ARE	Egyesült Arab Emírségek
+784	AE	ARE	Egyesült Arab Emírségek	
 818	EG	EGY	Egyiptom	Egyiptomi Arab Köztársaság
 384	CI	CIV	Elefántcsontpart	Elefántcsontparti Köztársaság
 232	ER	ERI	Eritrea	Eritreai Állam
@@ -56,8 +57,8 @@
 270	GM	GMB	Gambia	Gambiai Köztársaság
 288	GH	GHA	Ghána	Ghánai Köztársaság
 300	GR	GRC	Görögország	Görög Köztársaság
-308	GD	GRD	Grenada
-268	GE	GEO	Grúzia
+308	GD	GRD	Grenada	
+268	GE	GEO	Grúzia	
 320	GT	GTM	Guatemala	Guatemalai Köztársaság
 324	GN	GIN	Guinea	Guineai Köztársaság
 328	GY	GUY	Guyana	Guyanai Szövetkezeti Köztársaság
@@ -69,16 +70,16 @@
 360	ID	IDN	Indonézia	Indonéz Köztársaság
 368	IQ	IRQ	Irak	Iraki Köztársaság
 364	IR	IRN	Irán	Iráni Iszlám Köztársaság
-372	IE	IRL	Írország
+372	IE	IRL	Írország	
 352	IS	ISL	Izland	Izlandi Köztársaság
 376	IL	ISR	Izrael	Izraeli Állam
-388	JM	JAM	Jamaica
-392	JP	JPN	Japán
+388	JM	JAM	Jamaica	
+392	JP	JPN	Japán	
 887	YE	YEM	Jemen	Jemeni Köztársaság
 400	JO	JOR	Jordánia	Jordán Hásimita Királyság
 116	KH	KHM	Kambodzsa	Kambodzsai Királyság
 120	CM	CMR	Kamerun	Kameruni Köztársaság
-124	CA	CAN	Kanada
+124	CA	CAN	Kanada	
 634	QA	QAT	Katar	Katari Állam
 398	KZ	KAZ	Kazahsztán	Kazah Köztársaság
 626	TL	TLS	Kelet-Timor	Kelet-timori Demokratikus Köztársaság
@@ -87,10 +88,10 @@
 417	KG	KGZ	Kirgizisztán	Kirgiz Köztársaság
 296	KI	KIR	Kiribati	Kiribati Köztársaság
 170	CO	COL	Kolumbia	Kolumbiai Köztársaság
-178	CG	COG	Kongói Köztársaság
-180	CD	COD	Kongói Demokratikus Köztársaság
-410	KR	KOR	Koreai Köztársaság
-408	KP	PRK	Koreai Népi Demokratikus Köztársaság
+178	CG	COG	Kongói Köztársaság	
+180	CD	COD	Kongói Demokratikus Köztársaság	
+410	KR	KOR	Koreai Köztársaság	
+408	KP	PRK	Koreai Népi Demokratikus Köztársaság	
 140	CF	CAF	Koszovó	Koszovói Köztársaság Közép-afrikai Köztársaság
 192	CU	CUB	Kuba	Kubai Köztársaság
 414	KW	KWT	Kuvait	Kuvaiti Állam
@@ -105,8 +106,8 @@
 440	LT	LTU	Litvánia	Litván Köztársaság
 442	LU	LUX	Luxemburg	Luxemburgi Nagyhercegség
 450	MG	MDG	Madagaszkár	Madagaszkári Köztár- saság
-348	HU	HUN	Magyarország
-458	MY	MYS	Malajzia
+348	HU	HUN	Magyarország	
+458	MY	MYS	Malajzia	
 454	MW	MWI	Malawi	Malawi Köztársaság
 462	MV	MDV	Maldív-szigetek	Maldív Köztársaság
 466	ML	MLI	Mali	Mali Köztársaság
@@ -120,8 +121,8 @@
 583	FM	FSM	Mikronézia	Mikronéziai Szövetségi Államok
 498	MD	MDA	Moldova	Moldovai Köztársaság
 492	MC	MCO	Monaco	Monacói Hercegség
-496	MN	MNG	Mongólia
-499	ME	MNE	Montenegró
+496	MN	MNG	Mongólia	
+499	ME	MNE	Montenegró	
 508	MZ	MOZ	Mozambik	Mozambiki Köztársaság
 826	GB	GBR	Nagy-Britannia, terjedőben: Egyesült Királyság	Nagy-Britannia és Észak- Írország Egyesült Királysága
 516	NA	NAM	Namíbia	Namíbiai Köztársaság
@@ -143,12 +144,12 @@
 600	PY	PRY	Paraguay	Paraguayi Köztársaság
 604	PE	PER	Peru	Perui Köztársaság
 620	PT	PRT	Portugália	Portugál Köztársaság
-642	RO	ROU	Románia
+642	RO	ROU	Románia	
 646	RW	RWA	Ruanda	Ruandai Köztársaság
-659	KN	KNA	Saint Kitts és Nevis
-662	LC	LCA	Saint Lucia
-670	VC	VCT	Saint Vincent és Grenadine-szigetek
-090	SB	SLB	Salamon-szigetek
+659	KN	KNA	Saint Kitts és Nevis	
+662	LC	LCA	Saint Lucia	
+670	VC	VCT	Saint Vincent és Grenadine-szigetek	
+090	SB	SLB	Salamon-szigetek	
 222	SV	SLV	Salvador	Salvadori Köztársaság
 674	SM	SMR	San Marino	San Marino Köztársaság
 678	ST	STP	Säo Tomé és Príncipe	Säo Tomé és Príncipe Demokratikus Köztársaság
@@ -177,12 +178,12 @@
 776	TO	TON	Tonga	Tongai Királyság
 792	TR	TUR	Törökország	Török Köztársaság
 780	TT	TTO	Trinidad és Tobago	Trinidad és Tobago Köztársaság
-788	TN	TUN	Tunézia Tunéziai Köztársaság
-798	TV	TUV	Tuvalu
-795	TM	TKM	Türkmenisztán
+788	TN	TUN	Tunézia Tunéziai Köztársaság	
+798	TV	TUV	Tuvalu	
+795	TM	TKM	Türkmenisztán	
 800	UG	UGA	Uganda	Ugandai Köztársaság
-554	NZ	NZL	Új-Zéland
-804	UA	UKR	Ukrajna
+554	NZ	NZL	Új-Zéland	
+804	UA	UKR	Ukrajna	
 858	UY	URY	Uruguay	Uruguayi Keleti Köztársaság
 860	UZ	UZB	Üzbegisztán	Üzbég Köztársaság
 548	VU	VUT	Vanuatu	Vanuatui Köztársaság
