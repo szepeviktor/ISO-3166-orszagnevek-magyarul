@@ -123,7 +123,7 @@ Monaco / Monacói Hercegség MC MCO 492
 Mongólia MN MNG 496
 Montenegró ME MNE 499
 Mozambik / Mozambiki Köztársaság MZ MOZ 508
-Nagy-Britannia, terjedőben: Egyesült Királyság / Nagy-Britannia és Észak- Írország Egyesült Királysága GB GBR 826
+Nagy-Britannia, terjedőben: Egyesült Királyság / Nagy-Britannia és Észak-Írország Egyesült Királysága GB GBR 826
 Namíbia / Namíbiai Köztársaság NA NAM 516
 Nauru / Naurui Köztársaság NR NRU 520
 Németország / Német Szövetségi Köztársaság DE DEU 276
