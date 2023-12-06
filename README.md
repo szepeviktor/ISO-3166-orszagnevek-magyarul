@@ -2,10 +2,16 @@
 
 Forrás: Miniszterelnökség / Földrajzinév-bizottság / Ország- és területnevek
 
+## Listák
+
+1. [Független államok](./names-independent.tsv)
+1. [Egyéb jogállású területek](./names-other.tsv)
+
+## Feldolgozás
+
 1.  PDF fájl letöltése
     https://cdn.kormany.hu//uploads/sheets//4/4f/4f1/4f1446d8e1badc4b778ff60861cf799.pdf
-1.  Szöveg kinyerése a PDF fájlból
-    [XpdfReader](https://www.xpdfreader.com/download.html)
+1.  Szöveg kinyerése a PDF fájlból [XpdfReader](https://www.xpdfreader.com/download.html) programmal
     ```shell
     pdftotext -raw -enc UTF-8 4f1446d8e1badc4b778ff60861cf799.pdf pdf-contents.txt
     ```
