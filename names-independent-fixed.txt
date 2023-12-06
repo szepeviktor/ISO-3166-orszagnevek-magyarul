@@ -1,0 +1,194 @@
+Afganisztán / Afganisztáni Iszlám Köztársaság AF AFG 004
+Albánia / Albán Köztársaság AL ALB 008
+Algéria / Algériai Demokratikus Népi Köztársaság DZ DZA 012
+Andorra / Andorrai Fejedelemség AD AND 020
+Angola / Angolai Köztársaság AO AGO 024
+Antigua és Barbuda AG ATG 028
+Argentína / Argentin Köztársaság AR ARG 032
+Ausztrália / Ausztrál Államszövetség AU AUS 036
+Ausztria / Osztrák Köztársaság AT AUT 040
+Azerbajdzsán / Azerbajdzsáni Köztársaság AZ AZE 031
+Bahama-szigetek / Bahamai Közösség BS BHS 044
+Bahrein / Bahreini Királyság BH BHR 048
+Banglades / Bangladesi Népi Köztársaság BD BGD 050
+Barbados BB BRB 052
+Belgium / Belga Királyság BE BEL 056
+Belize BZ BLZ 084
+Benin / Benini Köztársaság BJ BEN 204
+Bhután / Bhutáni Királyság BT BTN 064
+Bissau-Guinea / Bissau-guineai Köztársaság GW GNB 624
+Bolívia / Bolíviai Többnemzetiségű Állam BO BOL 068
+Bosznia-Hercegovina BA BIH 070
+Botswana / Botswanai Köztársaság BW BWA 072
+Brazília / Brazil Szövetségi Köztársaság BR BRA 076
+Brunei / Brunei Darussalam Állam BN BRN 096
+Bulgária / Bolgár Köztársaság BG BGR 100
+Burkina Faso BF BFA 854
+Burundi Burundi Köztársaság BI BDI 108
+Chile / Chilei Köztársaság CL CHL 152
+Ciprus / Ciprusi Köztársaság CY CYP 196
+Comore-szigetek / Comore-szigeteki Unió KM COM 174
+Costa Rica / Costa Rica Köztársaság CR CRI 188
+Csád / Csádi Köztársaság TD TCD 148
+Csehország / Cseh Köztársaság CZ CZE 203
+Dánia / Dán Királyság DK DNK 208
+Dél-Afrika / Dél-afrikai Köztársaság ZA ZAF 710
+Dél-Szudán / Dél-szudáni Köztársaság SS SSD 728
+Dominikai Közösség DM DMA 212
+Dominikai Köztársaság DO DOM 214
+Dzsibuti / Dzsibuti Köztársaság DJ DJI 262
+Ecuador / Ecuadori Köztársaság EC ECU 218
+Egyenlítői-Guinea / Egyenlítői-guineai Köztársaság GQ GNQ 226
+Egyesült Államok / Amerikai Egyesült Államok US USA 840
+Egyesült Arab Emírségek AE ARE 784
+Egyiptom / Egyiptomi Arab Köztársaság EG EGY 818
+Elefántcsontpart / Elefántcsontparti Köztársaság CI CIV 384
+Eritrea / Eritreai Állam ER ERI 232
+Észak-Macedónia / Észak-macedón Köztársaság MK MKD 807
+Észtország / Észt Köztársaság EE EST 233
+Etiópia / Etióp Demokratikus Szövetségi Köztársaság ET ETH 231
+Fehéroroszország / Fehérorosz Köztársaság BY BLR 112
+Fidzsi / Fidzsi Köztársaság FJ FJI 242
+Finnország / Finn Köztársaság FI FIN 246
+Franciaország / Francia Köztársaság FR FRA 250
+Fülöp-szigetek / Fülöp-szigeteki Köztársaság PH PHL 608
+Gabon / Gaboni Köztársaság GA GAB 266
+Gambia / Gambiai Köztársaság GM GMB 270
+Ghána / Ghánai Köztársaság GH GHA 288
+Görögország / Görög Köztársaság GR GRC 300
+Grenada GD GRD 308
+Grúzia GE GEO 268
+Guatemala / Guatemalai Köztársaság GT GTM 320
+Guinea / Guineai Köztársaság GN GIN 324
+Guyana / Guyanai Szövetkezeti Köztársaság GY GUY 328
+Haiti / Haiti Köztársaság HT HTI 332
+Hollandia / Holland Királyság NL NLD 528
+Honduras / Hondurasi Köztársaság HN HND 340
+Horvátország / Horvát Köztársaság HR HRV 191
+India / Indiai Köztársaság IN IND 356
+Indonézia / Indonéz Köztársaság ID IDN 360
+Irak / Iraki Köztársaság IQ IRQ 368
+Irán / Iráni Iszlám Köztársaság IR IRN 364
+Írország IE IRL 372
+Izland / Izlandi Köztársaság IS ISL 352
+Izrael / Izraeli Állam IL ISR 376
+Jamaica JM JAM 388
+Japán JP JPN 392
+Jemen / Jemeni Köztársaság YE YEM 887
+Jordánia / Jordán Hásimita Királyság JO JOR 400
+Kambodzsa / Kambodzsai Királyság KH KHM 116
+Kamerun / Kameruni Köztársaság CM CMR 120
+Kanada CA CAN 124
+Katar / Katari Állam QA QAT 634
+Kazahsztán / Kazah Köztársaság KZ KAZ 398
+Kelet-Timor / Kelet-timori Demokratikus Köztársaság TL TLS 626
+Kenya / Kenyai Köztársaság KE KEN 404
+Kína / Kínai Népköztársaság CN CHN 156
+Kirgizisztán / Kirgiz Köztársaság KG KGZ 417
+Kiribati / Kiribati Köztársaság KI KIR 296
+Kolumbia / Kolumbiai Köztársaság CO COL 170
+Kongói Köztársaság CG COG 178
+Kongói Demokratikus Köztársaság CD COD 180
+Koreai Köztársaság KR KOR 410
+Koreai Népi Demokratikus Köztársaság KP PRK 408
+Koszovó / Koszovói Köztársaság Közép-afrikai Köztársaság CF CAF 140
+Kuba / Kubai Köztársaság CU CUB 192
+Kuvait / Kuvaiti Állam KW KWT 414
+Laosz / Laoszi Népi Demokratikus Köztársaság LA LAO 418
+Lengyelország / Lengyel Köztársaság PL POL 616
+Lesotho / Lesothói Királyság LS LSO 426
+Lettország / Lett Köztársaság LV LVA 428
+Libanon / Libanoni Köztársaság LB LBN 422
+Libéria / Libériai Köztársaság LR LBR 430
+Líbia / Líbiai Állam LY LBY 434
+Liechtenstein / Liechtensteini Fejedelemség LI LIE 438
+Litvánia / Litván Köztársaság LT LTU 440
+Luxemburg / Luxemburgi Nagyhercegség LU LUX 442
+Madagaszkár / Madagaszkári Köztár- saság MG MDG 450
+Magyarország HU HUN 348
+Malajzia MY MYS 458
+Malawi / Malawi Köztársaság MW MWI 454
+Maldív-szigetek / Maldív Köztársaság MV MDV 462
+Mali / Mali Köztársaság ML MLI 466
+Málta / Máltai Köztársaság MT MLT 470
+Marokkó / Marokkói Királyság MA MAR 504
+Marshall-szigetek / Marshall-szigeteki Köztársaság MH MHL 584
+Mauritánia / Mauritániai Iszlám Köztársaság MR MRT 478
+Mauritius / Mauritiusi Köztársaság MU MUS 480
+Mexikó / Mexikói Egyesült Államok MX MEX 484
+Mianmar / Mianmari Szövetségi Köztársaság MM MMR 104
+Mikronézia / Mikronéziai Szövetségi Államok FM FSM 583
+Moldova / Moldovai Köztársaság MD MDA 498
+Monaco / Monacói Hercegség MC MCO 492
+Mongólia MN MNG 496
+Montenegró ME MNE 499
+Mozambik / Mozambiki Köztársaság MZ MOZ 508
+Nagy-Britannia, terjedőben: Egyesült Királyság / Nagy-Britannia és Észak- Írország Egyesült Királysága GB GBR 826
+Namíbia / Namíbiai Köztársaság NA NAM 516
+Nauru / Naurui Köztársaság NR NRU 520
+Németország / Német Szövetségi Köztársaság DE DEU 276
+Nepál / Nepál NP NPL 524
+Nicaragua / Nicaraguai Köztársaság NI NIC 558
+Niger / Nigeri Köztársaság NE NER 562
+Nigéria / Nigériai Szövetségi Köztársaság NG NGA 566
+Norvégia / Norvég Királyság NO NOR 578
+Olaszország / Olasz Köztársaság IT ITA 380
+Omán / Ománi Szultánság OM OMN 512
+Oroszország / Oroszországi Föderáció RU RUS 643
+Örményország / Örmény Köztársaság AM ARM 051
+Pakisztán / Pakisztáni Iszlám Köztársaság PK PAK 586
+Palau / Palaui Köztársaság PW PLW 585
+Panama / Panamai Köztársaság PA PAN 591
+Pápua Új-Guinea / Pápua Új-Guinea Független Állam PG PNG 598
+Paraguay / Paraguayi Köztársaság PY PRY 600
+Peru / Perui Köztársaság PE PER 604
+Portugália / Portugál Köztársaság PT PRT 620
+Románia RO ROU 642
+Ruanda / Ruandai Köztársaság RW RWA 646
+Saint Kitts és Nevis KN KNA 659
+Saint Lucia LC LCA 662
+Saint Vincent és Grenadine-szigetek VC VCT 670
+Salamon-szigetek SB SLB 090
+Salvador / Salvadori Köztársaság SV SLV 222
+San Marino / San Marino Köztársaság SM SMR 674
+Säo Tomé és Príncipe / Säo Tomé és Príncipe Demokratikus Köztársaság ST STP 678
+Seychelle-szigetek / Seychelle Köztársaság SC SYC 690
+Sierra Leone / Sierra Leone Köztársaság SL SLE 694
+Spanyolország / Spanyol Királyság ES ESP 724
+Srí Lanka / Srí Lanka Demokratikus Szocialista Köztársaság LK LKA 144
+Suriname / Suriname Köztársaság SR SUR 740
+Svájc / Svájci Államszövetség CH CHE 756
+Svédország / Svéd Királyság SE SWE 752
+Szamoa / Szamoai Független Állam WS WSM 882
+Szaúd-Arábia / Szaúd-arábiai Királyság SA SAU 682
+Szenegál / Szenegáli Köztársaság SN SEN 686
+Szerbia / Szerb Köztársaság RS SRB 688
+Szingapúr / Szingapúri Köztársaság SG SGP 702
+Szíria / Szíriai Arab Köztársaság SY SYR 760
+Szlovákia / Szlovák Köztársaság SK SVK 703
+Szlovénia / Szlovén Köztársaság SI SVN 705
+Szomália / Szomáli Szövetségi Köztársaság SO SOM 706
+Szudán / Szudáni Köztársaság SD SDN 729
+Szváziföld / Szváziföldi Királyság SZ SWZ 748
+Tádzsikisztán / Tádzsik Köztársaság TJ TJK 762
+Tanzánia / Tanzániai Egyesült Köztár-saság TZ TZA 834
+Thaiföld / Thaiföldi Királyság TH THA 764
+Togo / Togói Köztársaság TG TGO 768
+Tonga / Tongai Királyság TO TON 776
+Törökország / Török Köztársaság TR TUR 792
+Trinidad és Tobago / Trinidad és Tobago Köztársaság TT TTO 780
+Tunézia Tunéziai Köztársaság TN TUN 788
+Tuvalu TV TUV 798
+Türkmenisztán TM TKM 795
+Uganda / Ugandai Köztársaság UG UGA 800
+Új-Zéland NZ NZL 554
+Ukrajna UA UKR 804
+Uruguay / Uruguayi Keleti Köztársaság UY URY 858
+Üzbegisztán / Üzbég Köztársaság UZ UZB 860
+Vanuatu / Vanuatui Köztársaság VU VUT 548
+Vatikán / Vatikánvárosi Állam4 VA VAT 336
+Venezuela / Venezuelai Bolívari Köztársaság VE VEN 862
+Vietnám / Vietnámi Szocialista Köztársaság VN VNM 704
+Zambia / Zambiai Köztársaság ZM ZMB 894
+Zimbabwe / Zimbabwei Köztársaság ZW ZWE 716
+Zöld-foki-szigetek / Zöld-foki Köztársaság CV CPV 132

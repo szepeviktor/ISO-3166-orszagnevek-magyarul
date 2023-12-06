@@ -1,0 +1,54 @@
+Aland AX ALA 248 > Finnország
+Amerikai Csendes-óceáni-szigetek UM UMI 581 > Egyesült Államok
+Amerikai Szamoa AS ASM 016 > Egyesült Államok
+Amerikai Virgin-szigetek VI VIR 850 > Egyesült Államok
+Anguilla AI AIA 660 > Nagy-Britannia
+Antarktisz AQ ATA 010
+Aruba AW ABW 533 > Hollandia
+Bermuda BM BMU 060 > Nagy-Britannia
+Bouvet-sziget BV BVT 074 > Norvégia
+Brit Indiai-óceáni terület IO IOT 086 > Nagy-Britannia
+Brit Virgin-szigetek VG VGB 092 > Nagy-Britannia
+Cook-szigetek CK COK 184 > Új-Zéland
+Curasao CW CUW 531 > Hollandia
+Déli-Georgia és Déli-Sandwich-szigetek GS SGS 239 > Nagy-Britannia
+Északi-Mariana-szigetek MP MNP 580 > Egyesült Államok
+Falkland-szigetek (Malvinas) FK FLK 238 > Nagy-Britannia
+Feröer FO FRO 234 > Dánia
+Francia déli területek TF ATF 260 > Franciaország
+Francia Guyana GF GUF 254 > Franciaország
+Francia Polinézia PF PYF 258 > Franciaország
+Gibraltár GI GIB 292 > Nagy-Britannia
+Grönland GL GRL 304 > Dánia
+Guadeloupe GP GLP 312 > Franciaország
+Guam GU GUM 316 > Egyesült Államok
+Guernsey GG GGY 831 > Nagy-Britannia
+Heard-sziget és McDonald-szigetek HM HMD 334 > Ausztrália
+Hongkong / Hongkong Különleges Közigazgatási Terület HK HKG 344 > Kína
+Jersey JE JEY 832 > Nagy-Britannia
+Kajmán-szigetek KY CYM 136 > Nagy-Britannia
+Karácsony-sziget CX CXR 162 > Ausztrália
+Kókusz (Keeling)-szigetek CC CCK 166 > Ausztrália
+Makaó / Makaó Különleges Közigazgatási Terület MO MAC 446 > Kína
+Man IM IMN 833 > Nagy-Britannia
+Martinique MQ MTQ 474 > Franciaország
+Mayotte YT MYT 175 > Franciaország;
+Montserrat MS MSR 500 > Nagy-Britannia
+Niue NU NIU 570 > Új-Zéland
+Norfolk-sziget NF NFK 574 > Ausztrália
+Nyugat-Szahara EH ESH 732
+Palesztin Nemzeti Hatóság PS PSE 275
+Pitcairn-szigetek PN PCN 612 > Nagy-Britannia
+Puerto Rico PR PRI 630 > Egyesült Államok
+Réunion RE REU 638 > Franciaország
+Saint-Barthélemy BL BLM 652 > Franciaország
+Saint-Martin MF MAF 663 > Franciaország
+Saint-Pierre és Miquelon PM SPM 666 > Franciaország
+Sint Maarten SX SXM 534 > Hollandia
+Svalbard SJ SJM 744 > Norvégia
+Szent Ilona SH SHN 654 > Nagy-Britannia
+Tajvan TW TWN 158
+Tokelau-szigetek TK TKL 772 > Új-Zéland
+Turks- és Caicos-szigetek TC TCA 796 > Nagy-Britannia
+Új-Kaledónia NC NCL 540 > Franciaország
+Wallis és Futuna WF WLF 876 > Franciaország
