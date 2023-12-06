@@ -7,6 +7,16 @@ Forrás: Miniszterelnökség / Földrajzinév-bizottság / Ország- és terület
 1. [Független államok](./names-independent.tsv)
 1. [Egyéb jogállású területek](./names-other.tsv)
 
+## Lábjegyzetek
+
+| Ország | Lábjegyzet |
+| ------ | ---------- |
+| Fehéroroszország | Nemzetközi kapcsolatokban a Belarusz, Belarusz Köztársaság névalak is használható. |
+| Németország | Nemzetközi kapcsolatokban a „Németországi Szövetségi Köztársaság” államnév is használható. |
+| Szváziföld | Nemzetközi kapcsolatokban idegen nyelvű szövegekben az ENSZ-ben elfogadott névalak (Eswatini) használható. |
+| Vatikán | Nemzetközi kapcsolatokban, illetve bizonyos célokra a „Szentszék” elnevezés is használható. |
+| Tajvan | ENSZ és egyéb többoldalú kapcsolatokban a „Tajvan, Kína tartománya” magyarázattal kiegészített név is használható. |
+
 ## Feldolgozás
 
 1.  PDF fájl letöltése
