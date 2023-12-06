@@ -29,8 +29,8 @@ Forrás: Miniszterelnökség / Földrajzinév-bizottság / Ország- és terület
     ```
 1.  Listák ellenőrzése
     ```shell
-    grep -v ' [A-Z]\{2\} [A-Z]\{3\} [0-9]\{3\}$' names-independent-fixed.txt
-    grep -v ' [A-Z]\{2\} [A-Z]\{3\} [0-9]\{3\} > ' names-other-fixed.txt
+    grep -v '^[A-Za-zÁÉÍÓÖŐÚÜŰáéíóöőúüű /-]\+ [A-Z]\{2\} [A-Z]\{3\} [0-9]\{3\}$' names-independent-fixed.txt
+    grep -v '^[A-Za-zÁÉÍÓÖŐÚÜŰáéíóöőúüű ()/-]\+ [A-Z]\{2\} [A-Z]\{3\} [0-9]\{3\} > ' names-other-fixed.txt
     ```
 1.  Azonosítók ellenőrzése
     ```shell

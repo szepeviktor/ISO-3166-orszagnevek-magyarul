@@ -104,7 +104,7 @@ Líbia / Líbiai Állam LY LBY 434
 Liechtenstein / Liechtensteini Fejedelemség LI LIE 438
 Litvánia / Litván Köztársaság LT LTU 440
 Luxemburg / Luxemburgi Nagyhercegség LU LUX 442
-Madagaszkár / Madagaszkári Köztár- saság MG MDG 450
+Madagaszkár / Madagaszkári Köztársaság MG MDG 450
 Magyarország HU HUN 348
 Malajzia MY MYS 458
 Malawi / Malawi Köztársaság MW MWI 454
@@ -171,7 +171,7 @@ Szomália / Szomáli Szövetségi Köztársaság SO SOM 706
 Szudán / Szudáni Köztársaság SD SDN 729
 Szváziföld / Szváziföldi Királyság SZ SWZ 748
 Tádzsikisztán / Tádzsik Köztársaság TJ TJK 762
-Tanzánia / Tanzániai Egyesült Köztár-saság TZ TZA 834
+Tanzánia / Tanzániai Egyesült Köztársaság TZ TZA 834
 Thaiföld / Thaiföldi Királyság TH THA 764
 Togo / Togói Köztársaság TG TGO 768
 Tonga / Tongai Királyság TO TON 776
@@ -186,7 +186,7 @@ Ukrajna UA UKR 804
 Uruguay / Uruguayi Keleti Köztársaság UY URY 858
 Üzbegisztán / Üzbég Köztársaság UZ UZB 860
 Vanuatu / Vanuatui Köztársaság VU VUT 548
-Vatikán / Vatikánvárosi Állam4 VA VAT 336
+Vatikán / Vatikánvárosi Állam VA VAT 336
 Venezuela / Venezuelai Bolívari Köztársaság VE VEN 862
 Vietnám / Vietnámi Szocialista Köztársaság VN VNM 704
 Zambia / Zambiai Köztársaság ZM ZMB 894
