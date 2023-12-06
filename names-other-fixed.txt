@@ -32,7 +32,7 @@ Kókusz (Keeling)-szigetek CC CCK 166 > Ausztrália
 Makaó / Makaó Különleges Közigazgatási Terület MO MAC 446 > Kína
 Man IM IMN 833 > Nagy-Britannia
 Martinique MQ MTQ 474 > Franciaország
-Mayotte YT MYT 175 > Franciaország;
+Mayotte YT MYT 175 > Franciaország
 Montserrat MS MSR 500 > Nagy-Britannia
 Niue NU NIU 570 > Új-Zéland
 Norfolk-sziget NF NFK 574 > Ausztrália
