@@ -69,5 +69,5 @@ Forrás: Miniszterelnökség / Földrajzinév-bizottság / Ország- és terület
     Array.from(document.querySelectorAll("#hea-country-elements [role='option']")).map(e => e.textContent).join("\n") 
     ```
     ```shell
-    diff <(tail -n +2 names-independent.tsv|cut -f4|sort) <(cut -f1 names-konzinfo.txt|sort)
+    diff <(tail -n +2 names-independent.tsv|cut -f4|sort) <(sort names-konzinfo.txt)
     ```
