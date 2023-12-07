@@ -91,7 +91,8 @@ Kongói Köztársaság CG COG 178
 Kongói Demokratikus Köztársaság CD COD 180
 Koreai Köztársaság KR KOR 410
 Koreai Népi Demokratikus Köztársaság KP PRK 408
-Koszovó / Koszovói Köztársaság Közép-afrikai Köztársaság CF CAF 140
+Koszovó / Koszovói Köztársaság ZZ ZZZ 900
+Közép-afrikai Köztársaság CF CAF 140
 Kuba / Kubai Köztársaság CU CUB 192
 Kuvait / Kuvaiti Állam KW KWT 414
 Laosz / Laoszi Népi Demokratikus Köztársaság LA LAO 418
@@ -177,7 +178,7 @@ Togo / Togói Köztársaság TG TGO 768
 Tonga / Tongai Királyság TO TON 776
 Törökország / Török Köztársaság TR TUR 792
 Trinidad és Tobago / Trinidad és Tobago Köztársaság TT TTO 780
-Tunézia Tunéziai Köztársaság TN TUN 788
+Tunézia / Tunéziai Köztársaság TN TUN 788
 Tuvalu TV TUV 798
 Türkmenisztán TM TKM 795
 Uganda / Ugandai Köztársaság UG UGA 800

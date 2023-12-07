@@ -9,13 +9,19 @@ Forrás: Miniszterelnökség / Földrajzinév-bizottság / Ország- és terület
 
 ## Lábjegyzetek
 
-| Ország | Lábjegyzet |
-| ------ | ---------- |
+| Név | Lábjegyzet |
+| --- | ---------- |
 | Fehéroroszország | Nemzetközi kapcsolatokban a Belarusz, Belarusz Köztársaság névalak is használható. |
 | Németország | Nemzetközi kapcsolatokban a „Németországi Szövetségi Köztársaság” államnév is használható. |
 | Szváziföld | Nemzetközi kapcsolatokban idegen nyelvű szövegekben az ENSZ-ben elfogadott névalak (Eswatini) használható. |
 | Vatikán | Nemzetközi kapcsolatokban, illetve bizonyos célokra a „Szentszék” elnevezés is használható. |
 | Tajvan | ENSZ és egyéb többoldalú kapcsolatokban a „Tajvan, Kína tartománya” magyarázattal kiegészített név is használható. |
+
+## Az ISO 3166 szabványban nem szerepelnek
+
+| Név | Azonosítók |
+| --- | ---------- |
+| Koszovó | `ZZ ZZZ 900` |
 
 ## Feldolgozás
 
@@ -46,4 +52,15 @@ Forrás: Miniszterelnökség / Földrajzinév-bizottság / Ország- és terület
     ```shell
     wget https://github.com/PrinsFrank/standards/raw/main/src/Country/CountryNumeric.php
     diff <(grep -o "'[0-9]\{3\}'" <CountryNumeric.php|cut -d"'" -f2|sort) <(grep -ho '[0-9]\{3\}' names-*-fixed.txt|sort)
+    ```
+    ```js
+    // https://hu.wikipedia.org/wiki/Orsz%C3%A1gok_%C3%A9s_ter%C3%BCletek_list%C3%A1ja
+    Array.from(document.querySelectorAll(".wikitable > tbody > tr > td:first-of-type > a, .wikitable > tbody > tr > td:nth-of-type(3)")).map(e => e.textContent).join("\n");
+    ```
+    ```shell
+    sed -i -e '/^$/N;/^\n$/D' names-wikipedia.txt
+    sed -i -e 's/\s\+/ /g' names-wikipedia.txt
+    while read -r LINE;do if [ -z "$LINE" ];then echo;else echo -ne "${LINE}\t";fi;done <names-wikipedia.txt >names-wikipedia-fixed.txt
+    diff <(tail -n +2 names-independent.tsv|cut -f4|sort) <(cut -f1 names-wikipedia-fixed.txt|sort)
+    diff <(tail -n +2 names-independent.tsv|cut -f5|sort) <(cut -f2 names-wikipedia-fixed.txt|sort)
     ```

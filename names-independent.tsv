@@ -92,7 +92,8 @@ Numeric	Alpha-2	Alpha-3	Short	Full
 180	CD	COD	Kongói Demokratikus Köztársaság	
 410	KR	KOR	Koreai Köztársaság	
 408	KP	PRK	Koreai Népi Demokratikus Köztársaság	
-140	CF	CAF	Koszovó	Koszovói Köztársaság Közép-afrikai Köztársaság
+140	CF	CAF	Közép-afrikai Köztársaság	
+900	ZZ	ZZZ	Koszovó	Koszovói Köztársaság
 192	CU	CUB	Kuba	Kubai Köztársaság
 414	KW	KWT	Kuvait	Kuvaiti Állam
 418	LA	LAO	Laosz	Laoszi Népi Demokratikus Köztársaság
@@ -178,7 +179,7 @@ Numeric	Alpha-2	Alpha-3	Short	Full
 776	TO	TON	Tonga	Tongai Királyság
 792	TR	TUR	Törökország	Török Köztársaság
 780	TT	TTO	Trinidad és Tobago	Trinidad és Tobago Köztársaság
-788	TN	TUN	Tunézia Tunéziai Köztársaság	
+788	TN	TUN	Tunézia	Tunéziai Köztársaság
 798	TV	TUV	Tuvalu	
 795	TM	TKM	Türkmenisztán	
 800	UG	UGA	Uganda	Ugandai Köztársaság
