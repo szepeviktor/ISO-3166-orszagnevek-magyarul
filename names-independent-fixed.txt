@@ -24,7 +24,7 @@ Brazília / Brazil Szövetségi Köztársaság BR BRA 076
 Brunei / Brunei Darussalam Állam BN BRN 096
 Bulgária / Bolgár Köztársaság BG BGR 100
 Burkina Faso BF BFA 854
-Burundi Burundi Köztársaság BI BDI 108
+Burundi / Burundi Köztársaság BI BDI 108
 Chile / Chilei Köztársaság CL CHL 152
 Ciprus / Ciprusi Köztársaság CY CYP 196
 Comore-szigetek / Comore-szigeteki Unió KM COM 174

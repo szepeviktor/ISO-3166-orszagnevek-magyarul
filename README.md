@@ -64,3 +64,10 @@ Forrás: Miniszterelnökség / Földrajzinév-bizottság / Ország- és terület
     diff <(tail -n +2 names-independent.tsv|cut -f4|sort) <(cut -f1 names-wikipedia-fixed.txt|sort)
     diff <(tail -n +2 names-independent.tsv|cut -f5|sort) <(cut -f2 names-wikipedia-fixed.txt|sort)
     ```
+    ```js
+    // https://konzinfo.mfa.gov.hu/kulkepviseletek/osszes
+    Array.from(document.querySelectorAll("#hea-country-elements [role='option']")).map(e => e.textContent).join("\n") 
+    ```
+    ```shell
+    diff <(tail -n +2 names-independent.tsv|cut -f4|sort) <(cut -f1 names-konzinfo.txt|sort)
+    ```
