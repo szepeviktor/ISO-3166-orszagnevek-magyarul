@@ -66,7 +66,7 @@ Forrás: Miniszterelnökség / Földrajzinév-bizottság / Ország- és terület
     ```
     ```js
     // https://konzinfo.mfa.gov.hu/kulkepviseletek/osszes
-    Array.from(document.querySelectorAll("#hea-country-elements [role='option']")).map(e => e.textContent).join("\n") 
+    Array.from(document.querySelectorAll("#hea-country-elements [role='option']")).map(e => e.textContent).join("\n");
     ```
     ```shell
     diff <(tail -n +2 names-independent.tsv|cut -f4|sort) <(sort names-konzinfo.txt)
