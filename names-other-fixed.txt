@@ -10,7 +10,7 @@ Bouvet-sziget BV BVT 074 > Norvégia
 Brit Indiai-óceáni terület IO IOT 086 > Nagy-Britannia
 Brit Virgin-szigetek VG VGB 092 > Nagy-Britannia
 Cook-szigetek CK COK 184 > Új-Zéland
-Curasao CW CUW 531 > Hollandia
+Curaçao CW CUW 531 > Hollandia
 Déli-Georgia és Déli-Sandwich-szigetek GS SGS 239 > Nagy-Britannia
 Északi-Mariana-szigetek MP MNP 580 > Egyesült Államok
 Falkland-szigetek (Malvinas) FK FLK 238 > Nagy-Britannia

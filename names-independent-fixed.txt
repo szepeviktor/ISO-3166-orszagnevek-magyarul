@@ -152,7 +152,7 @@ Saint Vincent és Grenadine-szigetek VC VCT 670
 Salamon-szigetek SB SLB 090
 Salvador / Salvadori Köztársaság SV SLV 222
 San Marino / San Marino Köztársaság SM SMR 674
-Säo Tomé és Príncipe / Säo Tomé és Príncipe Demokratikus Köztársaság ST STP 678
+São Tomé és Príncipe / São Tomé és Príncipe Demokratikus Köztársaság ST STP 678
 Seychelle-szigetek / Seychelle Köztársaság SC SYC 690
 Sierra Leone / Sierra Leone Köztársaság SL SLE 694
 Spanyolország / Spanyol Királyság ES ESP 724
