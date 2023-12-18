@@ -21,7 +21,7 @@ Forrás: Miniszterelnökség / Földrajzinév-bizottság / Ország- és terület
 
 | Név | Azonosítók |
 | --- | ---------- |
-| Koszovó | `ZZ ZZZ 900` |
+| Koszovó | `XK XKK 900` |
 
 ## Feldolgozás
 

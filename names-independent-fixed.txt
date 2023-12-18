@@ -91,7 +91,7 @@ Kongói Köztársaság CG COG 178
 Kongói Demokratikus Köztársaság CD COD 180
 Koreai Köztársaság KR KOR 410
 Koreai Népi Demokratikus Köztársaság KP PRK 408
-Koszovó / Koszovói Köztársaság ZZ ZZZ 900
+Koszovó / Koszovói Köztársaság XK XKK 900
 Közép-afrikai Köztársaság CF CAF 140
 Kuba / Kubai Köztársaság CU CUB 192
 Kuvait / Kuvaiti Állam KW KWT 414
