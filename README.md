@@ -71,3 +71,7 @@ Forrás: Miniszterelnökség / Földrajzinév-bizottság / Ország- és terület
     ```shell
     diff <(tail -n +2 names-independent.tsv|cut -f4|sort) <(sort names-konzinfo.txt)
     ```
+    ```shell
+    wget https://github.com/unicode-org/cldr-json/raw/main/cldr-json/cldr-localenames-full/main/hu/territories.json
+    diff <(tail -q -n +2 names-*.tsv|cut -f2,4|sort) <(cat territories.json|jq -r '.main.hu.localeDisplayNames.territories | to_entries[] | select(.key | match("^[A-Z][A-Z]$")) | [.key, .value] | join("\t")'|sort)
+    ```
