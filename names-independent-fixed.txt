@@ -128,7 +128,7 @@ Nagy-Britannia, terjedőben: Egyesült Királyság / Nagy-Britannia és Észak-�
 Namíbia / Namíbiai Köztársaság NA NAM 516
 Nauru / Naurui Köztársaság NR NRU 520
 Németország / Német Szövetségi Köztársaság DE DEU 276
-Nepál / Nepál NP NPL 524
+Nepál NP NPL 524
 Nicaragua / Nicaraguai Köztársaság NI NIC 558
 Niger / Nigeri Köztársaság NE NER 562
 Nigéria / Nigériai Szövetségi Köztársaság NG NGA 566
